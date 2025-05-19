@@ -1,7 +1,7 @@
 ````markdown
 
 SimpleMCPChatbot
-![Project Banner](assets/banner.png)
+![Project Banner](assets/background.png)
 
 This repo contains a basic chatbot using multiple MCP servers connecting via the Model Context Protocol (MCP).
 
