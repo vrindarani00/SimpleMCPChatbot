@@ -1,4 +1,5 @@
 ````markdown
+![background](https://github.com/user-attachments/assets/c92957cd-2f97-4e79-b707-f183b57c23d0)
 
 SimpleMCPChatbot
 ![Project Banner](assets/background.png)
