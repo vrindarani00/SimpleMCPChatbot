@@ -1,13 +1,12 @@
 ````markdown
 
 SimpleMCPChatbot
- ![background](https://github.com/user-attachments/assets/90915101-6867-4de5-b0b8-33a8e6fb42a3)
-
+![Project Banner](assets/banner.png)
 
 This repo contains a basic chatbot using multiple MCP servers connecting via the Model Context Protocol (MCP).
 
-**LLM used:**  
-**Qwen-QwQ-32B** is a medium-sized, open-source reasoning model developed by the Qwen team (Alibaba), designed specifically for complex problem-solving and logical reasoning tasks. Unlike general-purpose language models that excel at conversational fluency, QwQ-32B is optimized for structured, multi-step reasoning, making it particularly effective for technical domains such as mathematics, coding, scientific research, and finance.
+LLM used: 
+Qwen-QwQ-32B is a medium-sized, open-source reasoning model developed by the Qwen team (Alibaba), designed specifically for complex problem-solving and logical reasoning tasks. Unlike general-purpose language models that excel at conversational fluency, QwQ-32B is optimized for structured, multi-step reasoning, making it particularly effective for technical domains such as mathematics, coding, scientific research, and finance.
 
 ---
 
